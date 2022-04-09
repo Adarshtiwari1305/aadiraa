@@ -2,12 +2,12 @@
 
 [![MUSICBOT LOGO](https://telegra.ph/file/9d2ab40fdf7a773f7b9d8.jpg)]( )
 
-Generate-pyrogram-session-string - Replit
-https://replit.com/@dashezup/generate-pyrogram-session-string
+##Generate-pyrogram-session-string - Replit
+@stringmakebot
 
-🔥 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐘𝐎𝐔𝐑 𝐎𝐖𝐍 𝐑𝐈𝐒𝐊 🔥
+🔥 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗡𝗔𝗡𝗗𝗔𝗡 𝗦𝗜𝗡𝗚𝗛 🔥
 
-𝔽𝕆ℝ 𝔻𝔼ℙ𝕃𝕆𝕐 𝕆ℕ ℍ𝔼ℝ𝕆𝕂𝕌 𝕋𝔸ℙ 𝕆ℕ 𝕋ℍ𝔼 𝔹𝕌𝕋𝕋𝕆ℕ ☟︎︎︎
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗛𝗘𝗥𝗢𝗞𝗨 
 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ABHISHEKI72/Musicabhi-">
