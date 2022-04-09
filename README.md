@@ -7,7 +7,7 @@
 
 🔥 𝗖𝗥𝗘𝗔𝗧𝗘𝗗 𝗕𝗬 𝗡𝗔𝗡𝗗𝗔𝗡 𝗦𝗜𝗡𝗚𝗛 🔥
 
-## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗛𝗘𝗥𝗢𝗞𝗨 
+## 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨 
 
 
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/ABHISHEKI72/Musicabhi-">
